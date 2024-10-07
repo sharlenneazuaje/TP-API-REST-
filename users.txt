@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "nombre": "Anahir",
+    "apellido": "González",
+    "edad": 28,
+    "profesion": "Desarrolladora de Software"
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos",
+    "apellido": "Quintero",
+    "edad": 34,
+    "profesion": "Ingeniero en Sistemas"
+  },
+  {
+    "id": 3,
+    "nombre": "Ana",
+    "apellido": "Pérez",
+    "edad": 25,
+    "profesion": "Diseñadora UX/UI"
+  },
+  {
+    "id": 4,
+    "nombre": "Jorge",
+    "apellido": "Rodríguez",
+    "edad": 42,
+    "profesion": "Administrador de Redes"
+  },
+  {
+    "nombre": "Juan",
+    "apellido": "Zagarese",
+    "edad": 29,
+    "profesion": "Estudiante",
+    "id": 5
+  },
+  {
+    "nombre": "Yoraima",
+    "apellido": "Torres",
+    "edad": 53,
+    "profesion": "Contadora",
+    "id": 6
+  },
+  {
+    "nombre": "Keila",
+    "apellido": "Castillo",
+    "edad": 37,
+    "profesion": "Abogada",
+    "id": 7
+  }
+]
